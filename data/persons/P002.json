@@ -1,0 +1,17 @@
+{
+  "id": "P002",
+  "name": "machan",
+  "dateOfBirth": "2026-07-31",
+  "dateOfDeath": "2026-02-05",
+  "tombId": "T006",
+  "description": "hiii",
+  "imagePath": "/images/persons/P002.jpg",
+  "familyMembers": [
+    {
+      "relation": "Father",
+      "name": "Robin"
+    }
+  ],
+  "history": "",
+  "createdAt": "2026-05-28T18:00:47.459Z"
+}
