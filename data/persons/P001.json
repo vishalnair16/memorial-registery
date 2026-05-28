@@ -1,0 +1,17 @@
+{
+  "id": "P001",
+  "name": "robin",
+  "dateOfBirth": "2026-05-12",
+  "dateOfDeath": "2026-05-29",
+  "tombId": "T005",
+  "description": "njan pwoliea",
+  "imagePath": "/images/persons/P001.jpg",
+  "familyMembers": [
+    {
+      "relation": "",
+      "name": ""
+    }
+  ],
+  "history": "",
+  "createdAt": "2026-05-28T17:57:43.643Z"
+}
